@@ -1,5 +1,3 @@
-Here's an updated README for your Lakeside Hotel Management and Booking System project, incorporating the Maven configuration for the backend and Vite for the frontend:
-
 # Lakeside Hotel Management and Booking System
 
 Welcome to the Lakeside Hotel Management and Booking System! This project is a comprehensive solution for managing hotel bookings with features such as hotel filtering, admin and customer login, checkout, and payment options. It is built using the MVC architecture with Spring Boot for the backend and React.js for the frontend.
